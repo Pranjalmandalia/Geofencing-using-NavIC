@@ -1,10 +1,10 @@
 
 ## Top part
 
-<img src="/top_part_img1.jpeg">
-<img src="/top_part_img2.jpeg">
+<img src="/3d files/top_part_img1.jpeg">
+<img src="/3d files/top_part_img2.jpeg">
 
 ## Base
 
-<img src="/base_img1.jpeg">
-<img src="/base_img2.jpeg">
+<img src="/3d files/base_img1.jpeg">
+<img src="/3d files/base_img2.jpeg">
