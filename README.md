@@ -7,9 +7,12 @@ To design a child safety application of geofencing using NavIC/IRNSS  such that 
 * NavIC/IRNSS receiver
 
 ## Mobile App 
+<img src="https://user-images.githubusercontent.com/47287530/171267563-d40e5377-c747-4ce8-ab6a-5702d2d64568.jpeg" width="200" height="400" />
+
 
 Mobile Application is developed with React Native Expo. 
 App has 5 main Screens:
+
 1. Registration Screen
 2. Login Screen
 3. Geofence Setting Screen
@@ -17,15 +20,30 @@ App has 5 main Screens:
 5. Account detail Screen
 
 ### Registration Screen
+<p align="center">
+<img src="https://user-images.githubusercontent.com/47287530/171267652-029649da-d35e-4423-8420-fcf4e5886581.jpg" width="200" height="400"/>
+  </p>
 New User enter the asked details and create the password. Behind the scene, Firebase authentication SDK is used as a sign-in method and entered details also get stored in real-time firebase Data Base.
 
 ### Login Screen
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/47287530/171267615-be6b9da4-badb-4127-a842-32b110cbbe1a.jpg" width="200" height="400" />
+</p>
 To sign a user into the app, User enter the authentication credentials in Login Screen. In the background, these credentials get passed to the Firebase Authentication SDK. Backend services then verify those credentials and return a response whether user is authorised to use the App or not.
 
 ### Geofence Setting Screen
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/47287530/171267615-be6b9da4-badb-4127-a842-32b110cbbe1a.jpg" width="200" height="400" />
+</p>
 User can enter the radius of geofence Circle and enter the location(parent location). This create the virtual geofence.
 
 ### Real-time Tracking Screen
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/47287530/171267679-63e36930-4d1d-44ed-b918-980931347c77.jpg" width="200" height="400" />
+</p>
 This Screen show the live tracking of child. It also show the useful informations that 
 - Latitude 
 - Longitude 
@@ -34,6 +52,6 @@ This Screen show the live tracking of child. It also show the useful information
 - Distance-> Shows the distance between child and parent.
 
 ### Account Detail Screen
-Show the deatils entered during registration process.
+Show the details entered during registration process.
 
 
