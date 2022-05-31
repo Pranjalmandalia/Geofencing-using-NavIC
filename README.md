@@ -24,7 +24,7 @@ App has 5 main Screens:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/47287530/171267652-029649da-d35e-4423-8420-fcf4e5886581.jpg" width="200" height="400"/>
   </p>
-New User enter the asked details and create the password. Behind the scene, Firebase authentication SDK is used as a sign-in method and entered details also get stored in real-time firebase Data Base.
+New User enter the asked details and create the password. Behind the scene, Firebase authentication SDK is used as a sign-in method and the entered details also get stored in real-time firebase DataBase.
 
 ### Login Screen
 <p align="center">
@@ -38,7 +38,7 @@ To sign a user into the app, User enter the authentication credentials in Login 
 
 <img src="https://user-images.githubusercontent.com/47287530/171267615-be6b9da4-badb-4127-a842-32b110cbbe1a.jpg" width="200" height="400" />
 </p>
-User can enter the radius of geofence Circle and enter the location(parent location). This create the virtual geofence.
+User can enter the radius of geofence Circle and the current location(parent location). This create the virtual geofence centered at parent location.
 
 ### Real-time Tracking Screen
 <p align="center">
@@ -48,11 +48,11 @@ User can enter the radius of geofence Circle and enter the location(parent locat
 This Screen show the live tracking of child. It also show the useful informations that 
 - Latitude 
 - Longitude 
-- Navic Status-> whether Hardware (Navic) receiving the lat/long from statellites or not.
+- Navic Status-> Whether Hardware (Navic) receiving the lat/long from statellites or not.
 - Child Status-> Whether Child is inside the geofence or not.
 - Distance-> Shows the distance between child and parent.
 
 ### Account Detail Screen
-Show the details entered during registration process.
+Show the details entered while doing registration process.
 
 
