@@ -7,8 +7,9 @@ To design a child safety application of geofencing using NavIC/IRNSS  such that 
 * NavIC/IRNSS receiver
 
 ## Mobile App 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/47287530/171267563-d40e5377-c747-4ce8-ab6a-5702d2d64568.jpeg" width="200" height="400" />
-
+</p>
 
 Mobile Application is developed with React Native Expo. 
 App has 5 main Screens:
