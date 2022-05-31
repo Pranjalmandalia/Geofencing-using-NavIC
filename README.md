@@ -36,7 +36,7 @@ To sign a user into the app, User enter the authentication credentials in Login 
 ### Geofence Setting Screen
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/47287530/171267615-be6b9da4-badb-4127-a842-32b110cbbe1a.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/47287530/171267699-6b5012e9-4161-439f-9fac-e5156f45a0fc.jpeg" width="200" height="400" />
 </p>
 User can enter the radius of geofence Circle and the current location(parent location). This create the virtual geofence centered at parent location.
 
