@@ -45,12 +45,13 @@ User can enter the radius of geofence Circle and the current location(parent loc
 
 <img src="https://user-images.githubusercontent.com/47287530/171267679-63e36930-4d1d-44ed-b918-980931347c77.jpg" width="200" height="400" />
 </p>
-This Screen show the live tracking of child. It also show the useful informations that 
-- Latitude 
-- Longitude 
-- Navic Status-> Whether Hardware (Navic) receiving the lat/long from statellites or not.
-- Child Status-> Whether Child is inside the geofence or not.
-- Distance-> Shows the distance between child and parent.
+This Screen show the live tracking of child. It also show the useful informations those are:
+
+* Latitude 
+* Longitude 
+* Navic Status-> Whether Hardware (Navic) receiving the lat/long from statellites or not.
+* Child Status-> Whether Child is inside the geofence or not.
+* Distance-> Shows the distance between child and parent.
 
 ### Account Detail Screen
 Show the details entered while doing registration process.
